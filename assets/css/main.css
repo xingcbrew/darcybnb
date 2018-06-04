@@ -1984,6 +1984,7 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+        font-size: 1.4em;
 	}
 
 		.icon:before {
@@ -2831,9 +2832,10 @@
 /* Footer */
 
 	#footer {
-		padding: 8em 0 6em 0 ;
+		padding: 4em 0 4em 0 ;
 		background-color: #292929;
 		color: #a7a7a7;
+        text-align: center;
 	}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
